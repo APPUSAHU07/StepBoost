@@ -1,6 +1,27 @@
 # StepBoost 🚶‍♂️⚡
 ### Google Health Connect Daily Step Booster & Manager (No Root Required)
 
+## ⬇️ Download APK
+
+> **Direct Download (No build required!)**
+
+[![Download APK](https://img.shields.io/badge/Download-APK%20(Debug)-brightgreen?style=for-the-badge&logo=android)](https://github.com/APPUSAHU07/StepBoost/raw/main/app/build/outputs/apk/debug/app-debug.apk)
+
+| Info | Detail |
+|------|--------|
+| 📦 File | `app-debug.apk` (~57 MB) |
+| 🤖 Min Android | Android 8.0+ (API 26+) |
+| 🏥 Requires | [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata) installed |
+
+**How to install:**
+1. Click the **Download APK** button above
+2. Transfer the APK to your Android phone (via WhatsApp, Drive, USB, etc.)
+3. On your phone, go to **Settings → Install unknown apps** → allow your file manager
+4. Tap the APK file to install
+5. Open **StepBoost** and grant Health Connect permissions
+
+---
+
 **StepBoost** is an Android application that alters and injects daily step counts into **Google Health Connect** with realistic, human-like cadence patterns. Because it uses Android's official Health Connect Client SDK, **no rooting or system modification is required**.
 
 Once steps are written to Health Connect, any fitness app linked to Health Connect (such as **Google Fit**, **Samsung Health**, **MyFitnessPal**, **Strava**, etc.) automatically reads and syncs the updated daily steps.
