@@ -1,0 +1,23 @@
+*.iml
+.gradle
+.kotlin/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.idea
+*.aab
+
+# Ignore build directories except output APK
+app/build/intermediates/
+app/build/tmp/
+app/build/kotlin/
+!app/build/outputs/apk/debug/app-debug.apk

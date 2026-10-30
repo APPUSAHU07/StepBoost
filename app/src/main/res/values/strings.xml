@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StepBoost</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="health_connect_not_available">Google Health Connect is not available on this device.</string>
+    <string name="health_connect_not_installed">Health Connect is not installed. Tap to install from Google Play Store.</string>
+    <string name="permissions_granted">Connected to Health Connect</string>
+    <string name="grant_permissions">Grant Step Permissions</string>
+</resources>
